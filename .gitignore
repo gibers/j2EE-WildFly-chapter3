@@ -3,5 +3,6 @@ target
 .classpath
 .git
 .project
+.gitignore
 nb-configuration.xml
 deployerWar.bat
